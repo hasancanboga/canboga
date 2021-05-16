@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasancanboga
+- 👋 Hi, I’m @johnboga
 - 👀 I’m interested in PHP, Laravel and VueJS
 - 🌱 I’m currently learning more about various Laravel packages.
 
