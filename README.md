@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johnboga
-- 👀 I’m interested in PHP, Laravel and VueJS
-- 🌱 I’m currently learning more about various Laravel packages.
+- 👋 Hi, I’m John Boga. I live in Istanbul.
+- 👀 I like working with PHP, Laravel and Vue.js (with Inertia.js)
+- 🌱 I’m currently building the back-end of a startup project, Hoop.
 
 
 <!---
