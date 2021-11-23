@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Boga. I live in Istanbul.
 - 👀 I like working with PHP, Laravel and Vue.js (with Inertia.js)
-- 🌱 I’m currently building the back-end of a startup project, Hoop.
+- 🌱 I’m currently working for Beyn Technology
 
 
 <!---
