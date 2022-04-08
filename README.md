@@ -1,5 +1,5 @@
-- 👋 Hi, I’m John Boga. I live in Istanbul.
-- 👀 I like working with PHP, Laravel and Vue.js (with Inertia.js)
+- 👋 Hi, I’m Hasan Can Boga. I live in Istanbul.
+- 👀 I like working with PHP and Laravel.
 - 🌱 I’m currently working for Beyn Technology
 
 
